@@ -53,6 +53,8 @@ tests/database_test.db-shm
 
 # Project documentation (local only)
 project-docs
+Migrating-Scriberr-homelab-austin.md
+models-backup/
 !internal/web/static.go
 feats.txt
 log.txt
